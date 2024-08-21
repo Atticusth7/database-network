@@ -8,3 +8,5 @@
 
 If server is running successfully open a seperate terminal tab and enter:
 ./dbclient <hostname> <port#>
+
+**I have included the executables dbclient and dbserver if these do not work compile using gcc**
